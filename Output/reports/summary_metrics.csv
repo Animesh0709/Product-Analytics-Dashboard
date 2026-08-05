@@ -1,0 +1,16 @@
+metric,value
+total_users,10500.0
+total_events,305000.0
+total_sessions,296886.0
+avg_dau,1565.1555555555556
+avg_mau,10417.833333333334
+total_revenue,1129188.5999999999
+arpu,107.54177142857141
+arppu,130.24089965397923
+avg_purchase_value,60.94498056994818
+paying_users,8670.0
+avg_session_duration,188.39928852459016
+median_session_duration,135.0
+conversion_rate_pct,82.57142857142857
+purchase_rate_pct,6.074754098360656
+returning_user_pct,64.81904761904762

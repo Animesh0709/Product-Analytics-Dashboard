@@ -1,0 +1,21 @@
+# SQLite database files
+Database/*.db
+Database/*.db-shm
+Database/*.db-wal
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
